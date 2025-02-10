@@ -1,3 +1,4 @@
+-- test merge conflict
 --  test
 with
 
